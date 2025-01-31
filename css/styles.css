@@ -80,6 +80,11 @@
     scroll-behavior: smooth;
   }
 }
+.img-profile {
+    max-width: 250px;
+    width: 100%;
+    height: auto;
+}
 
 body {
   margin: 0;
